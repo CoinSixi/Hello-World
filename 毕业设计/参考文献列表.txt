@@ -1,0 +1,23 @@
+基于跨域信息推荐的算法研究
+ On using reviews and comments for cross domain recommendations and decision making
+Cross-domain collaboration recommendation
+
+
+多模态3D目标识别
+Multiple human 3D pose estimation from multiview images，2018，翻译
+Multiview and 3D Video Compression Using Neighboring Block Based Disparity Vectors，2016
+Coarse-to-fine multiview 3d face reconstruction using multiple geometrical features 2017
+
+LSTM个性化推荐
+An LSTM-Based Dynamic Customer Model for Fashion Recommendation，2017，翻译
+LSTM-based Deep Learning Models for Answer Ranking，2017
+Personalized learning full-path recommendation model based on LSTM neural networks
+
+区块链：
+Decentralizing Privacy: Using Blockchain to Protect Personal Data，2017
+
+大数据:
+Evidential clustering of large dissimilarity data,2016
+
+深度学习
+Deep learning in neural networks: An overview，2015
